@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ### <div align="center">Hi, I’m Chinmay, a Data enthusiast who strives to find solutions to real-life problems with programming and using a variety of tools.  Dedicated to efficiency, reliability, and professionalism. </div>  
   
 
-### <div align="center">I spend most of my time playing with Data wrangling, Visualization, training ML Models, pinning ideas on Pinterest, Gardening, and Photography.</div>  
+### <div align="center">I spend most of my time playing with Data, Visualization, woking on ML Models, pinning ideas on Pinterest, Gardening, and Photography.</div>  
   
 
 
